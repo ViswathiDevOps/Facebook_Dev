@@ -1,3 +1,0 @@
- this is to test the revert back
-git revert commit id
-git push alias name branch name
