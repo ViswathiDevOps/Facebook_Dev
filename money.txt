@@ -1,3 +1,4 @@
+planning to learn merge from master to developmemt
 learning of merge command.
 updated again for moving he file from working area to local repo
 without moving to staging area
